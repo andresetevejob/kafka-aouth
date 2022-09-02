@@ -1,0 +1,7 @@
+oauth-client/target
+oauth-server/target
+oauth-common/target
+samples/docker/kafka-oauth-strimzi/kafka/target
+samples/producers/target
+samples/consumer/target
+.idea
